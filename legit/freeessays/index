@@ -23,6 +23,11 @@ file-data={text:"Hello! Dis is my Essay about AIAI is very big thing nowadayz. \
 file-name=Essay AI
 text=Our Essay about AI
 
+#download
+file-app=cdm.sentence
+file-data={text:"a"}
+file-name=E
+
 #footer
 title=FreeEssays.legit
 sub-title=We make free stuff!
