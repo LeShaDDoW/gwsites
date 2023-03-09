@@ -1,0 +1,25 @@
+#banner
+image=https://i.imgur.com/iB8B2PP.png
+#navigation
+color=-12369085
+item-link-1=freeessays.legit/school
+item-label-1=School
+item-icon-1=BOOK_CLOSED
+item-link-2=freeessays.legit/art
+item-label-2=Art
+item-icon-2=PICTURE
+item-link-3=freeessays.legit/pirating
+item-label-3=FREE SOFTWARE
+item-icon-3=IMPORT
+#header
+text=FreeEssays.legit
+scale=2
+#paragraph
+text=We here at FreeEssays make free products like Essays and Art Projects. 
+#paragraph
+text=
+We also allow for pirating paid Software here on our Website!
+#footer
+title=FreeEssays.legit
+sub-title=We make free stuff!
+home-page=freeessays.legit
