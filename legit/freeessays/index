@@ -25,7 +25,8 @@ text=Our Essay about AI
 
 #download
 file-app=cdm.sentence
-file-data={text:"a \n aaaaaaaa"}
+file-data={text:"a 
+aaaaaaaa"}
 file-name=E
 
 #footer
