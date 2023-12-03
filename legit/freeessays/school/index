@@ -1,6 +1,29 @@
+#banner
+image=https://i.imgur.com/iB8B2PP.png
+#navigation
+color=-12369085
+item-link-1=freeessays.legit/school
+item-label-1=School
+item-icon-1=BOOK_CLOSED
+item-link-2=freeessays.legit/art
+item-label-2=Art
+item-icon-2=PICTURE
+item-link-3=freeessays.legit/pirating
+item-label-3=FREE SOFTWARE
+item-icon-3=IMPORT
+#header
+text=FreeEssays.legit
+scale=2
+#paragraph
+text=These are our Essays for cheating in school!
 
 #download
 file-app=cdm.sentence
-file-data={text:"Hello! Dis is my Essay about AIAI is very big thing nowadayz. \nIt's like magic, but not magic. \nIt's like robit, but not robit. \nIt's like computer, \nbut not computer. AI is like all three mixed together \nand then some more.\n\nAI can do many thingz. \nIt can talk to us, \nit can play games with us, \nand it can even help us do our homewark! \nI do that all the Time, \nthat's whyI get so gud Grades all teh time!\n\nSometimes, AI can even help us make \nimportant decisionz, \nlike how to cheat on a test.But AI is not just for fun and gamez. \n\nIt can also help us solve big problemz, \nlike curing diseases or fighting climit change.\n\nBut AI is not purfect. \nSometimes, it makes mistakez. \nJust like we make mistakez \nwhen we are learning something new, \nAI can also make mistakez when it is learning. \n\nBut we shud not be angri at AI \nwhen it makes mistakez. \nWe shud try to help it learn and do \nbetter next time.\n\nSum people are scared of AI. \nThey think that AI will take over the world \nand make us all slaves. \n\nBut this is not true. \nAI is not alive, \nit's just a mashin. \nAnd like any mashin, \nit only does what we tell it to do. \nSo if we use AI for good thingz, \nthen it will do good thingz. \nBut if we use AI for bad thingz, \nthen it will do bad thingz.\n\nIn conclushun, \nAI is very cool and very useful. \nIt can do many thingz that we can't do ourselves. \nBut we shud be careful when we use AI, \nand we shud try to help it learn and do better.\nAnd most importantly, \nwe shud remember that AI is not alive, \nit's just a mashin. \nSo let's use it wisely and make the world a better place! \n\nThank you for reading my essay.\n\n!! -- MADE BY RISHAB AT FREEESSAYS.LEGIT -- !!"}
+file-data={ver:"2.0",title:"Essay AI",content:"Hello! Dis is my Essay about AIÂ§nAI is very big thing nowadayz. Â§nIt's like magic, but not magic. Â§nIt's like robit, but not robit. Â§nIt's like computer, but not computer. Â§nÂ§nAI is like all three mixed together Â§nand then some more.Â§nÂ§nAI can do many thingz. Â§nIt can talk to us, Â§nit can play games with us, Â§nand it can even help us do our homewark! Â§nI do that all the Time, Â§nthat's whyI get so gud Grades all teh time!Â§nÂ§nSometimes, AI can even help us make Â§nimportant decisionz, Â§nlike how to cheat on a test.Â§nBut AI is not just for fun and gamez.Â§nÂ§nIt can also help us solve big problemz, Â§nlike curing diseases or fighting climit change.Â§nÂ§nBut AI is not purfect. Â§nSometimes, it makes mistakez. Â§nJust like we make mistakez Â§nwhen we are learning something new, Â§nAI can also make mistakez when it is learning. Â§nÂ§nBut we shud not be angri at AI Â§nwhen it makes mistakez. Â§nWe shud try to help it learn and do Â§nbetter next time.Â§nÂ§nSum people are scared of AI. Â§nThey think that AI will take over the world Â§nand make us all slaves. Â§nÂ§nBut this is not true. Â§nAI is not alive, Â§nit's just a mashin. Â§nAnd like any mashin, Â§nit only does what we tell it to do. Â§nSo if we use AI for good thingz, Â§nthen it will do good thingz. Â§nBut if we use AI for bad thingz, Â§nthen it will do bad thingz.Â§nÂ§nIn conclushun, Â§nAI is very cool and very useful. Â§nIt can do many thingz Â§nthat we can't do ourselves. Â§nBut we shud be careful when we use AI, Â§nand we shud try to help it learn and do better.Â§nAnd most importantly, Â§nwe shud remember that AI is not alive, Â§nit's just a mashin. Â§nSo let's use it wisely and make Â§nthe world a better place! Â§nÂ§nThank you for reading my essay.Â§nÂ§n!! -- MADE BY RISHAB AT FREEESSAYS.LEGIT -- !!Â§n"}
 file-name=Essay AI
-text=Our Essay about AI Technology
+text=Written by Rishab
+
+#footer
+title=FreeEssays.legit
+sub-title=We make free stuff!
+home-page=freeessays.legit
