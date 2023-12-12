@@ -1,6 +1,6 @@
 #banner
 image=https://i.imgur.com/tC7ZKpE.png
-text=&f&ltcorp.mc
+text=&f&l12corp
 #https://i.imgur.com/6dXC6iU.png
 #divider
 size=1
@@ -27,4 +27,4 @@ scale=2
 #paragraph
 text=We sell computers in our 12corp Headquarters. Come visit us to buy some.
 #paragraph
-text=Computer Offers: 12corp.mc/computers
+text=Computer Offers: &etcorp.mc/computers
