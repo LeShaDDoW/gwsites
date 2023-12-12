@@ -1,0 +1,29 @@
+#banner
+image=https://i.imgur.com/tC7ZKpE.png
+text=&f&lComputers
+#https://i.imgur.com/6dXC6iU.png
+#divider
+size=1
+color=-11184811
+#navigation
+item-link-1=12corp.mc/contact
+item-label-1=Contact Us
+item-icon-1=USER
+item-link-2=12corp.mc/employees
+item-label-2=Employees
+item-icon-2=COMMUNITY
+item-link-3=12corp.mc/computers
+item-label-3=Computers
+item-icon-3=COMPUTER
+#divider
+size=1
+color=-13553359
+#paragraph
+text=Here are all of our &bComputer&f products:
+#banner
+image=https://i.imgur.com/zhiHMgz.png
+text=12Basic Kit
+#paragraph
+text=A basic Computer for basic Programs.
+#paragraph
+text=This product includes:\n	- Full Computer\n	- Small Monitor\n	- Keyboard
