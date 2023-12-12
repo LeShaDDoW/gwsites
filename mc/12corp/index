@@ -1,0 +1,30 @@
+#banner
+image=https://i.imgur.com/tC7ZKpE.png
+text=&f&l12corp.me
+#https://i.imgur.com/6dXC6iU.png
+#divider
+size=1
+color=-11184811
+#navigation
+item-link-1=12corp.mc/contact
+item-label-1=Contact Us
+item-icon-1=USER
+item-link-2=12corp.mc/employees
+item-label-2=Employees
+item-icon-2=COMMUNITY
+item-link-3=12corp.mc/computers
+item-label-3=Computers
+item-icon-3=COMPUTER
+#divider
+size=1
+color=-13553359
+#paragraph
+text=&eWelcome&f to the &bofficial&f Homepage of &l12corp&f.\nWe specialize in many different areas:
+#banner
+image=https://i.imgur.com/zhiHMgz.png
+text=&lComputers
+scale=2
+#paragraph
+text=We sell computers in our 12corp Headquarters. Come visit us to buy some.
+#paragraph
+text=Computer Offers: 12corp.mc/computers
