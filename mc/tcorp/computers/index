@@ -27,6 +27,11 @@ text=12Basic Kit
 text=A basic Computer for basic Programs.
 #paragraph
 text=This product includes:\n	- Full Computer\n	- Small Monitor\n	- Keyboard
+#download
+file-app=cdm.sentence
+file-data={ver:"2.0",title:"12Basic Specs",content:"12Basic Computer Kit Specifications:Â§nÂ§nLevel 1 CaseÂ§n	CPU Support: 1x IÂ§n	RAM Support: 2x IÂ§n	Card Support: 2x IÂ§n	HDD Support: 1x IÂ§nÂ§n2x Level 1 RAM StickÂ§nLevel 1 CPUÂ§nLevel 1 Graphics CardÂ§nLevel 1 Hard Disk Drive (1MB)Â§nÂ§nPreinstalled Lua BIOS EEPROMÂ§nPreinstalled OpenOSÂ§nÂ§n(c) 12corp inc.Â§n"}
+file-name=12Basic Specs
+text=Detailed Specifications
 #footer
 title=12corp Gitsite
 sub-title=(c) 12corp inc.
