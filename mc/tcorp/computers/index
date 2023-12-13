@@ -27,3 +27,7 @@ text=12Basic Kit
 text=A basic Computer for basic Programs.
 #paragraph
 text=This product includes:\n	- Full Computer\n	- Small Monitor\n	- Keyboard
+#footer
+title=12corp Gitsite
+sub-title=(c) 12corp inc.
+home-page=tcorp.mc

@@ -28,3 +28,7 @@ scale=2
 text=We sell computers in our 12corp Headquarters. Come visit us to buy some.
 #paragraph
 text=Computer Offers: &etcorp.mc/computers
+#footer
+title=12corp Gitsite
+sub-title=(c) 12corp inc.
+home-page=tcorp.mc

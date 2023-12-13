@@ -1,22 +1,30 @@
 #banner
 image=https://i.imgur.com/tC7ZKpE.png
-text=&f&lComputers
+text=&f&lEmployees
 #https://i.imgur.com/6dXC6iU.png
 #divider
 size=1
 color=-11184811
 #navigation
-item-link-1=tcorp.mc/contact
+item-link-1=12corp.mc/contact
 item-label-1=Contact Us
 item-icon-1=USER
-item-link-2=tcorp.mc/employees
+item-link-2=12corp.mc/employees
 item-label-2=Employees
 item-icon-2=COMMUNITY
-item-link-3=tcorp.mc/computers
+item-link-3=12corp.mc/computers
 item-label-3=Computers
 item-icon-3=COMPUTER
 #divider
 size=1
 color=-13553359
 #paragraph
-text=A list of everyone asociated with 12corp:\n\nCEO: _ls2; ls@endermail.com\nAssistant: potatomaster3000; pm3@endermail.com
+text=A list of everyone asociated with 12corp:
+#paragraph
+text=&lCEO / Founder:\n  &e&lName: &b&l_ls2\n  &e&lEndermail: &b&lls@endermail.com
+#paragraph
+text=&lAssistant:\n  &e&lName: &b&lpotatomaster3000\n  &e&lEndermail: &b&lpm3@endermail.com
+#footer
+title=12corp Gitsite
+sub-title=(c) 12corp inc.
+home-page=tcorp.mc
