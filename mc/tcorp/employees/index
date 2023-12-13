@@ -21,9 +21,11 @@ color=-13553359
 #paragraph
 text=A list of everyone asociated with 12corp:
 #paragraph
-text=&lCEO / Founder:\n  &e&lName: &b&l_ls2\n  &e&lEndermail: &b&lls@endermail.com
+text=&lCEO / Founder:\n\n  &e&lName: &b&l_ls2\n  &e&lEndermail: &b&lls@endermail.com\n  &e&lAdress: &b&lOakwood Str. 01\n  &e&lIP Adress: &b&l52.145.178.48\n  &e&lSocial Security Number: &b&l482:235:933:446
+image=https://i.imgur.com/tl5YW8U.png
 #paragraph
-text=&lAssistant:\n  &e&lName: &b&lpotatomaster3000\n  &e&lEndermail: &b&lpm3@endermail.com
+text=&lAssistant:\n  &e&lName: &b&lpotatomaster3000\n  &e&lEndermail: &b&lpm3@endermail.com\n  &e&lAdress: &b&lOakwood Str. 01
+image=https://i.imgur.com/iMegnWw.png
 #footer
 title=12corp Gitsite
 sub-title=(c) 12corp inc.
