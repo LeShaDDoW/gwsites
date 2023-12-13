@@ -6,13 +6,13 @@ text=&f&lEmployees
 size=1
 color=-11184811
 #navigation
-item-link-1=12corp.mc/contact
+item-link-1=tcorp.mc/contact
 item-label-1=Contact Us
 item-icon-1=USER
-item-link-2=12corp.mc/employees
+item-link-2=tcorp.mc/employees
 item-label-2=Employees
 item-icon-2=COMMUNITY
-item-link-3=12corp.mc/computers
+item-link-3=tcorp.mc/computers
 item-label-3=Computers
 item-icon-3=COMPUTER
 #divider
